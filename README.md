@@ -1,4 +1,4 @@
-- 👋 Hi, wer are @StyyMedia
+- 👋 Hi, we are @StyyMedia
 - https://StyyMedia.DE
 <!---
 
